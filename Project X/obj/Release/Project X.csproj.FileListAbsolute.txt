@@ -1,0 +1,5 @@
+D:\SourceCode\Project X\Project X\obj\Release\Project X.csproj.AssemblyReference.cache
+D:\SourceCode\Project X\Project X\obj\Release\Project_X.Form1.resources
+D:\SourceCode\Project X\Project X\obj\Release\Project_X.Properties.Resources.resources
+D:\SourceCode\Project X\Project X\obj\Release\Project X.csproj.GenerateResource.cache
+D:\SourceCode\Project X\Project X\obj\Release\Project X.csproj.CoreCompileInputs.cache

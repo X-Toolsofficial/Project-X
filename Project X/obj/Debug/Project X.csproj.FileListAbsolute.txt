@@ -1,0 +1,26 @@
+C:\Users\humpe\source\repos\Project X\Project X\bin\Debug\Project X.exe.config
+C:\Users\humpe\source\repos\Project X\Project X\bin\Debug\Project X.exe
+C:\Users\humpe\source\repos\Project X\Project X\bin\Debug\Project X.pdb
+C:\Users\humpe\source\repos\Project X\Project X\bin\Debug\Siticone.UI.dll
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.csproj.AssemblyReference.cache
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.csproj.SuggestedBindingRedirects.cache
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project_X.Form1.resources
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project_X.Properties.Resources.resources
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.csproj.GenerateResource.cache
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.csproj.CoreCompileInputs.cache
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.csproj.CopyComplete
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.exe
+C:\Users\humpe\source\repos\Project X\Project X\obj\Debug\Project X.pdb
+C:\Users\humpe\source\repos\Project X\Project X\bin\Debug\Guna.UI2.dll
+D:\SourceCode\Project X\Project X\bin\Debug\Project X.exe.config
+D:\SourceCode\Project X\Project X\bin\Debug\Project X.exe
+D:\SourceCode\Project X\Project X\bin\Debug\Project X.pdb
+D:\SourceCode\Project X\Project X\bin\Debug\Guna.UI2.dll
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.csproj.AssemblyReference.cache
+D:\SourceCode\Project X\Project X\obj\Debug\Project_X.Form1.resources
+D:\SourceCode\Project X\Project X\obj\Debug\Project_X.Properties.Resources.resources
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.csproj.GenerateResource.cache
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.csproj.CoreCompileInputs.cache
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.csproj.CopyComplete
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.exe
+D:\SourceCode\Project X\Project X\obj\Debug\Project X.pdb
